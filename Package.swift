@@ -12,7 +12,7 @@ let package = Package(
         .package(url: "https://github.com/kylef/PathKit.git", from: "0.8.0"),
         .package(url: "https://github.com/kylef/Stencil.git", from: "0.11.0"),
         .package(url: "https://github.com/jpsim/Yams.git", from: "0.7.0"),
-        .package(url: "https://github.com/SwiftGen/StencilSwiftKit.git", .branchItem("master")),
+        .package(url: "https://github.com/SwiftGen/StencilSwiftKit.git", from: "2.4.0"),
         .package(url: "https://github.com/tid-kijyun/Kanna.git", from: "4.0.0"),
         .package(url: "https://github.com/tid-kijyun/SwiftClibxml2.git", from: "1.0.0")
     ],
